@@ -8,10 +8,15 @@
 This Cheat is developed by me and published on Necrum.win!
 
 <h1>Features:</h1>
+
 Triggerbot FOV
+
 Triggerbot Shoot Delay
+
 Streamproof
+
 External color based
+
 You can choose between 3 keybinds
 
 <h1>Steps:</h1>
