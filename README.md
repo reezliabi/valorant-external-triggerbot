@@ -1,5 +1,5 @@
 
-# New Undetected Valorant Triggerbot
+# Undetected Valorant Triggerbot
 
 
 <h1>Status: UNDETECTED</h1>
